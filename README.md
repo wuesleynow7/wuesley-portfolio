@@ -55,7 +55,6 @@ Os projetos adicionados ao portfólio possuirão:
 - descrição;
 - tecnologias utilizadas;
 - link do GitHub;
-- deploy online.
 
 ---
 
